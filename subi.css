@@ -1,0 +1,81 @@
+.main
+{
+  border:5px double black ;
+  width:850px;
+  height: 1250px;
+  padding:50px;
+  border-bottom-left-radius: 20px;
+ 
+  border-radius: 20px;
+  
+}
+body
+{
+  background-size: 2480px 3508px;
+  text-align:justify;
+  text-align: center;
+}
+h1{
+  font-size:50px;
+  font-family: Times New Roman;
+text-shadow: 4px 3px 0px #fff, 9px 8px 0px rgba(0,0,0,0.15);
+}
+h2
+{
+   font-size: 40px;
+  font-family: Times New Roman;
+text-shadow: 4px 3px 0px #fff, 9px 8px 0px rgba(0,0,0,0.15);
+}
+.inputkpp{
+   text-align: center;
+   background-color:transparent;
+  border:0px;
+  font-size:40px;
+  font-family:"times new roman";
+   justify-content: center;
+  align-items: center;
+  width: 900px;
+  text-shadow: 4px 3px 0px #fff, 9px 8px 0px rgba(0,0,0,0.15);
+   align-content: justify-content;
+}
+.inputkppp{
+   text-align: center;
+   background-color:transparent;
+  border:0px;
+  font-size:50px;
+  font-family:"times new roman";
+   justify-content: center;
+  align-items: center;
+  width: 70px;
+   align-content: justify-content;
+}
+.maina
+{
+  
+}
+.inputkpppp{
+   text-align: center;
+   background-color:transparent;
+  border:0px;
+  font-size:40px;
+  font-family:"times new roman";
+  padding: 15px;
+  align-items: center;
+  width: 400px;
+   align-content: justify-content;
+  text-shadow: 4px 3px 0px #fff, 9px 8px 0px rgba(0,0,0,0.15); /* given two shadows */
+}
+.kp
+{
+  width:250px;
+}
+.button
+{
+   background-color:transparent;
+  border:0px;
+  font-size:50px;
+  font-family:"times new roman";
+  width: 70px;
+  color: whitesmoke;
+}
+}
